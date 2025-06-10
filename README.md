@@ -1,4 +1,4 @@
-# Computtional Chemistry
+# Computational Chemistry
 RDKit, MolGraph, Keras, PyTorch
 
 Objective: Implement different ML frameworks to predict solubility and build molecular descriptors. Methods covered include:
